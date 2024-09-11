@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: Ov23lia03iqB4Lu1hVUD
+  clientSecret: 9ad26b70359f7259bca3d185c5062db9e70ec7a2
   repo: grandahundo.github.io
   owner: grandahundo
 
